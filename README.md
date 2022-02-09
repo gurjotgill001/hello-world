@@ -1,2 +1,3 @@
 # hello-world
-this is for setting github
+Heyy!!
+Setting up github for the first time
